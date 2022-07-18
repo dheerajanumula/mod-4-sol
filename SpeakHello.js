@@ -1,5 +1,5 @@
 (function(window){
-  var speakWorld="Hello";
+  var speakWord="Hello";
   var helloSpeaker=function(name){
     console.log(speakWord+" "+name);
   }
